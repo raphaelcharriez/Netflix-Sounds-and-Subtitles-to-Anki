@@ -1,0 +1,238 @@
+2;愛はない;<i>Love does not exist.</i>-;test-2-DevilManJapEpisode1-0to20mins-00_02_02.mp3
+3;愛などない;<i>There is no such thing.</i>-;test-3-DevilManJapEpisode1-0to20mins-00_02_05.mp3
+4;故に悲しみもない;<i>Therefore, there is no sadness.</i>-;test-4-DevilManJapEpisode1-0to20mins-00_02_10.mp3
+5;そう思っていた;<i>That is what I thought.</i>-;test-5-DevilManJapEpisode1-0to20mins-00_02_15.mp3
+7;（不動(ふどう) 明(あきら)）大丈夫？;<i>Are you okay?</i>-;test-7-DevilManJapEpisode1-0to20mins-00_03_02.mp3
+8;（飛鳥(あすか) 了(りょう)）もうダメだ 死ぬ;It's going to die.-;test-8-DevilManJapEpisode1-0to20mins-00_03_21.mp3
+9;（明）いや ダメ;No! Don't!-;test-9-DevilManJapEpisode1-0to20mins-00_03_24.mp3
+10;（了）もう死ぬんだ 寄こせ;No! Don't!-It's gonna die. Give it to me.-;test-10-DevilManJapEpisode1-0to20mins-00_03_25.mp3
+11;（明）ダメ！;No!-;test-11-DevilManJapEpisode1-0to20mins-00_03_28.mp3
+12;（了）殺してやる;No!-Let me kill it.-;test-12-DevilManJapEpisode1-0to20mins-00_03_29.mp3
+13;（明）ダメ ダメ！;Let me kill it.-No, you can't!-;test-13-DevilManJapEpisode1-0to20mins-00_03_31.mp3
+14;クソッ 何でだ！;No, you can't!-Why the hell not!?-;test-14-DevilManJapEpisode1-0to20mins-00_03_32.mp3
+15;（サタン）私は嫌われ者で お前は泣き虫で;<i>People despised me.</i>-<i>And you were a crybaby.</i>-;test-15-DevilManJapEpisode1-0to20mins-00_03_37.mp3
+16;（明）ええ… えーん えーん;AKIRA-;test-16-DevilManJapEpisode1-0to20mins-00_03_42.mp3
+18;（了）どうして泣く？ 死ぬのは分かってた;Why are you crying? You knew it was gonna die.-No.-;test-18-DevilManJapEpisode1-0to20mins-00_03_53.mp3
+19;（明）違う;No.-;test-19-DevilManJapEpisode1-0to20mins-00_03_56.mp3
+20;（了）弱い者は死ぬ;The weak ones die.-No. That's not true.-;test-20-DevilManJapEpisode1-0to20mins-00_03_58.mp3
+21;（明）違う 違う 違う！ 了ちゃんも泣いてる;No. That's not true.-You're crying, too, Ryo.-;test-21-DevilManJapEpisode1-0to20mins-00_04_00.mp3
+22;何で？ 俺は悲しくない 当然のことだ;Why? I'm not sad. It was gonna die.-;test-22-DevilManJapEpisode1-0to20mins-00_04_05.mp3
+23;（明）了ちゃんも泣いてる;You're crying, too, Ryo.-;test-23-DevilManJapEpisode1-0to20mins-00_04_08.mp3
+24;（サタン）その時 私は―;<i>At the time...</i>-;test-24-DevilManJapEpisode1-0to20mins-00_04_11.mp3
+25;お前が何を言ってるのか 分からなかったよ;<i>I didn't know what you meant.</i>-;test-25-DevilManJapEpisode1-0to20mins-00_04_14.mp3
+26;（了）明！ 今 お前が必要なんだ;Akira, I need you right now.-;test-26-DevilManJapEpisode1-0to20mins-00_04_26.mp3
+27;（陸上部マネージャー） 位置について―;On your mark.-;test-27-DevilManJapEpisode1-0to20mins-00_04_32.mp3
+28;よーい;Get set.-;test-28-DevilManJapEpisode1-0to20mins-00_04_36.mp3
+32;速っ！ さすが上岡(かみおか)学院の魔女;So fast! Just what you'd expect of Kamioka Academy's witch.-;test-32-DevilManJapEpisode1-0to20mins-00_04_54.mp3
+33;（陸上部員１）ドーピングでも やってんじゃねえの？;She might be doping.-;test-33-DevilManJapEpisode1-0to20mins-00_04_58.mp3
+34;うちの女子と走りたくねえ;I don't wanna run with our school's girls.-;test-34-DevilManJapEpisode1-0to20mins-00_05_01.mp3
+35;（陸上部員２）あいつは 何で陸上やってっか不明;Why's that guy doing track-and-field?-;test-35-DevilManJapEpisode1-0to20mins-00_05_04.mp3
+36;（陸上部員１）美樹(みき)んとこの居候で 一緒に帰りたいだけなんじゃね？;He's staying at Miki's place.-;test-36-DevilManJapEpisode1-0to20mins-00_05_07.mp3
+38;それよりスーパー高校生のアレ;It's that super high-schooler.-;test-38-DevilManJapEpisode1-0to20mins-00_05_17.mp3
+40;（牧村(まきむら)美樹）ミーコも速かった;MOYURU KODA JYUNICHI KOTOBA-;test-40-DevilManJapEpisode1-0to20mins-00_05_22.mp3
+41;（陸上部員１）猟奇殺人っすからね 朝から やばいっす;MOYURU KODA JYUNICHI KOTOBA-What a bizarre murder. It's all over the news.-TEAMMATE MURDERED-;test-41-DevilManJapEpisode1-0to20mins-00_05_23.mp3
+42;（記者１） 人１人死んでるんですよ 本当に何も知らないんですか;TEAMMATE MURDERED-A person is dead. Do you know <i>nothing</i>?-MOYURU KODA-;test-42-DevilManJapEpisode1-0to20mins-00_05_28.mp3
+43;（記者２） 中学のころからの―;MOYURU KODA-You've been teammates for years, right?-;test-43-DevilManJapEpisode1-0to20mins-00_05_32.mp3
+44;チームメイト だったんですよね？;You've been teammates for years, right?-;test-44-DevilManJapEpisode1-0to20mins-00_05_33.mp3
+46;一緒に行ったという ウワサもありますが？;A drug party?-;test-46-DevilManJapEpisode1-0to20mins-00_05_36.mp3
+47;ドラッグパーティー？;A drug party?-;test-47-DevilManJapEpisode1-0to20mins-00_05_38.mp3
+48;“サバト”っていう悪魔崇拝 気取ったパーティーに―;Word is they went to some pseudo-Satanic party called Sabbath.-;test-48-DevilManJapEpisode1-0to20mins-00_05_40.mp3
+50;速く走れるんなら 俺も悪魔と契約するけどな;I'd sign a deal with the Devil if it'd make me run faster.-;test-50-DevilManJapEpisode1-0to20mins-00_05_45.mp3
+51;死んだヤツも速かったんだっけ？;Wasn't the guy who died fast, too?-;test-51-DevilManJapEpisode1-0to20mins-00_05_48.mp3
+53;（陸上部員２）えっ 何で？;What...? Why?-;test-53-DevilManJapEpisode1-0to20mins-00_05_54.mp3
+54;（陸上部員１）しかも涙;He's crying.-;test-54-DevilManJapEpisode1-0to20mins-00_05_56.mp3
+55;その人 泣いてる;He's crying.-That person is crying.-;test-55-DevilManJapEpisode1-0to20mins-00_05_57.mp3
+56;（美樹）また明くん 泣いてる 悲しんでる人いた？;Akira's crying again. Was someone sad?-;test-56-DevilManJapEpisode1-0to20mins-00_05_59.mp3
+58;スーパー高校生か 俺も友達死んだら泣くけどね;Ah, the super high-schooler.-I'd cry, too, if my friend died.-;test-58-DevilManJapEpisode1-0to20mins-00_06_05.mp3
+59;（陸上部員１） でも こいつ泣いてないだろ;But this guy isn't crying, is he?-;test-59-DevilManJapEpisode1-0to20mins-00_06_10.mp3
+60;何でお前が泣くんだよ;Why are you crying?-;test-60-DevilManJapEpisode1-0to20mins-00_06_13.mp3
+61;ねえ ４継やろうよ 男女混合でさ;Oh, hey. Let's do a 4-by-100-meter relay. A mixed relay.-;test-61-DevilManJapEpisode1-0to20mins-00_06_16.mp3
+62;イベントあるっていうじゃん？;-There's supposed to be an event, right? -Seriously?-;test-62-DevilManJapEpisode1-0to20mins-00_06_20.mp3
+67;ホントは４継やりたいんでしょ？;You seem concerned, but what you really want is to run 4-by-100, right?-;test-67-DevilManJapEpisode1-0to20mins-00_06_30.mp3
+68;（携帯電話の着信音） （美樹）あっ;It's Mr. Nagasaki.-;test-68-DevilManJapEpisode1-0to20mins-00_06_33.mp3
+69;（ミーコ）長崎(ながさき)さんだ;It's Mr. Nagasaki.-Sorry, gotta go.-;test-69-DevilManJapEpisode1-0to20mins-00_06_35.mp3
+70;あ ちょっとごめん;Sorry, gotta go.-;test-70-DevilManJapEpisode1-0to20mins-00_06_37.mp3
+71;（長崎光司(こうじ)）忙しい？ ちょうど今 近くで取材終わってさ;Are you busy?-;test-71-DevilManJapEpisode1-0to20mins-00_06_44.mp3
+73;（長崎） なかなか予約取れないイタリアン;There's an Italian place that's hard to get into.-;test-73-DevilManJapEpisode1-0to20mins-00_06_50.mp3
+74;偶然 テーブルが１つ取れて;I got lucky and got a table.-THE TRACK WITCH-;test-74-DevilManJapEpisode1-0to20mins-00_06_53.mp3
+75;（陸上部員２） 美樹の写真撮ってる人？;THE TRACK WITCH--The guy taking photos of Miki? -Probably her boyfriend.-;test-75-DevilManJapEpisode1-0to20mins-00_06_56.mp3
+80;だってスターだもん 美樹は;Miki is a star, after all.-;test-80-DevilManJapEpisode1-0to20mins-00_07_07.mp3
+83;きちっと傷心のコメントでも 言えれば収まったのに;Things would've calmed down if you looked upset.-;test-83-DevilManJapEpisode1-0to20mins-00_07_15.mp3
+84;すぐにアジア大会だ;The Asian Games are coming up.-;test-84-DevilManJapEpisode1-0to20mins-00_07_19.mp3
+85;記録もドーピングが疑われてるから 今度の大会で証明しろ;You're suspected of doping, so, prove your record-;test-85-DevilManJapEpisode1-0to20mins-00_07_21.mp3
+86;ぼんくらのお前には…;in the game coming up. For an idiot like you...-;test-86-DevilManJapEpisode1-0to20mins-00_07_25.mp3
+88;（ミーコ）あっ いた！;There you are.-;test-88-DevilManJapEpisode1-0to20mins-00_07_35.mp3
+89;明くん 携帯買ってもらいなよ うちの親に気兼ねしてちゃダメだよ;Akira, have my parents buy you a phone.-You shouldn't feel hesitant with them.-;test-89-DevilManJapEpisode1-0to20mins-00_07_38.mp3
+90;そんな使わないし;I wouldn't really use it.-;test-90-DevilManJapEpisode1-0to20mins-00_07_43.mp3
+91;クラスや部活のライン やったほうがいいし―;You can text all your class and teammates.-;test-91-DevilManJapEpisode1-0to20mins-00_07_45.mp3
+92;居間のパソコンでエロいの見たら 履歴消しといて;And clear the history after you watch porn-;test-92-DevilManJapEpisode1-0to20mins-00_07_48.mp3
+95;私 用事あるから 裏から帰るね;I gotta do something. I'll take the back way.-;test-95-DevilManJapEpisode1-0to20mins-00_07_54.mp3
+96;（ミーコ）車だろうけど 下町 物騒だから気をつけて;Even in a car, It's dangerous downtown,-;test-96-DevilManJapEpisode1-0to20mins-00_07_57.mp3
+97;（美樹）遅くならずに帰りまーす;-so, be careful. -I won't be home late.-;test-97-DevilManJapEpisode1-0to20mins-00_08_00.mp3
+98;（ミーコ）じゃあねー;Bye.-;test-98-DevilManJapEpisode1-0to20mins-00_08_04.mp3
+99;不動くん 私たちも…;Fudo, we should...-;test-99-DevilManJapEpisode1-0to20mins-00_08_07.mp3
+100;（長崎） ええ ハイソな若い連中の間で はやってるんですよ;It's popular among the young people in high society.-;test-100-DevilManJapEpisode1-0to20mins-00_08_13.mp3
+101;体力つくとか意思が強くなるとか;They say it fills you with energy and willpower.-;test-101-DevilManJapEpisode1-0to20mins-00_08_17.mp3
+102;実際 豹変(ひょうへん)したり失踪したりって 話があって…;There are stories that people change, or go missing...-MIKI: I'M SORRY.-;test-102-DevilManJapEpisode1-0to20mins-00_08_20.mp3
+103;ああ ちょっとすいません 失礼しまーす;MIKI: I'M SORRY.-Oh, I have to go. Goodbye.-;test-103-DevilManJapEpisode1-0to20mins-00_08_23.mp3
+105;ああ 何やってんだろ 私;What am I doing?-;test-105-DevilManJapEpisode1-0to20mins-00_08_43.mp3
+106;（ビートボックスの音） （美樹）あ…;What am I doing?-;test-106-DevilManJapEpisode1-0to20mins-00_08_45.mp3
+107;（ワム） ♪Yeah イキるリバーサイド 　　　　　　カスの吹き溜まり;<i>This is the riverside</i> <i>Where lowlifes gather</i>-;test-107-DevilManJapEpisode1-0to20mins-00_08_47.mp3
+108;♪はまっちまったヤツほど 　　　　　　　　　口が悪(わ)りー;<i>The ones stuck here</i> <i>All have foul mouths</i>-;test-108-DevilManJapEpisode1-0to20mins-00_08_50.mp3
+109;♪ここじゃ成功ってやつも雲隠れ;<i>Success is hidden </i> <i>behind the clouds here</i>-;test-109-DevilManJapEpisode1-0to20mins-00_08_53.mp3
+110;♪俺たちの未来と空の色はグレイ;<i>Our future and the sky are both gray</i>-;test-110-DevilManJapEpisode1-0to20mins-00_08_55.mp3
+111;♪常に空気がわりーし水もダメ 　　　喘息(ぜんそく)が蔓延して身がもたねー;<i>The air's dirty</i> <i>The water's just as bad</i>-<i>My asthma's worse</i> <i>'m feeling weak</i>-;test-111-DevilManJapEpisode1-0to20mins-00_08_58.mp3
+112;♪神様も逃げ出す 　　　最底辺なら書き残す;<i>A place even God wants to leave</i>-;test-112-DevilManJapEpisode1-0to20mins-00_09_02.mp3
+113;♪この眼しか見れない経験;<i>An experience I can see</i> <i>Only with my eyes</i>-;test-113-DevilManJapEpisode1-0to20mins-00_09_05.mp3
+114;♪上げるのは根じゃなく名前だけ;Let me through.-;test-114-DevilManJapEpisode1-0to20mins-00_09_12.mp3
+116;♪この決意に甘えはねー;<i>I won't give up, but I'll shout my name</i> <i>I made up my mind</i>-;test-116-DevilManJapEpisode1-0to20mins-00_09_14.mp3
+118;（ククン）あっ 見たことある 君 グラビア出てるよね;You do bikini modeling, don't you? She's famous.-;test-118-DevilManJapEpisode1-0to20mins-00_09_19.mp3
+120;へえ 走んの速いの？;Excuse me.-;test-120-DevilManJapEpisode1-0to20mins-00_09_27.mp3
+121;（明）あの！ （美樹）ん？;Excuse me.-Sir.-;test-121-DevilManJapEpisode1-0to20mins-00_09_29.mp3
+122;その… やめてください;Sir.-Please, stop.-;test-122-DevilManJapEpisode1-0to20mins-00_09_31.mp3
+123;（美樹）明くん！;Akira.-;test-123-DevilManJapEpisode1-0to20mins-00_09_34.mp3
+124;たまたま通りかか…;Akira.--I happened to pass by... -Did you follow me?-;test-124-DevilManJapEpisode1-0to20mins-00_09_35.mp3
+127;上がってきたわけじゃないよね 人魚さん？;Did you just come out from the sea or something, Mr. Mermaid?-;test-127-DevilManJapEpisode1-0to20mins-00_09_40.mp3
+128;（明） 今 遠い海から届いた人魚でーす;Yup, I'm a mermaid just arrived from the faraway sea.-;test-128-DevilManJapEpisode1-0to20mins-00_09_44.mp3
+129;（ククン）うっせえ （ワム）じゃあ 遠い海に帰れ;-Shut up. -Then go back to the faraway sea.-;test-129-DevilManJapEpisode1-0to20mins-00_09_47.mp3
+130;（明）うわー！ （美樹）明くん！;Akira!-;test-130-DevilManJapEpisode1-0to20mins-00_09_49.mp3
+131;（車の音） （美樹）え？;Akira!-;test-131-DevilManJapEpisode1-0to20mins-00_09_51.mp3
+132;明！;Akira.-;test-132-DevilManJapEpisode1-0to20mins-00_09_58.mp3
+133;（ククン）今度は誰だよ;Akira.-Who is it this time?-;test-133-DevilManJapEpisode1-0to20mins-00_09_59.mp3
+134;（ワム） 真夏にコートの真白さんってか;A guy in all-white, and a coat in the summer?-;test-134-DevilManJapEpisode1-0to20mins-00_10_01.mp3
+135;（明）んん 了… ちゃん？;Ryo?-;test-135-DevilManJapEpisode1-0to20mins-00_10_04.mp3
+136;（美樹）え？;Ryo?-;test-136-DevilManJapEpisode1-0to20mins-00_10_07.mp3
+137;一緒に来てくれ 明！;Come with me, Akira.-;test-137-DevilManJapEpisode1-0to20mins-00_10_09.mp3
+138;（明）えっ？;Excuse me.-;test-138-DevilManJapEpisode1-0to20mins-00_10_11.mp3
+139;（ククン） あの 取り込み中なんですよ こっち;Excuse me.-We're in the middle of something.-;test-139-DevilManJapEpisode1-0to20mins-00_10_12.mp3
+140;お前ら 黙ってろ;You guys stay quiet.-;test-140-DevilManJapEpisode1-0to20mins-00_10_18.mp3
+141;（ワム）何だよ それ;-What did you just say? -Akira.-;test-141-DevilManJapEpisode1-0to20mins-00_10_21.mp3
+142;（了）明！ （明）了ちゃん！ アハハ;-What did you just say? -Akira.-Ryo.-;test-142-DevilManJapEpisode1-0to20mins-00_10_22.mp3
+143;（ワム）てめえ ざけやがって;Stop messing around!-;test-143-DevilManJapEpisode1-0to20mins-00_10_25.mp3
+144;（銃声） （３人）わっ！ ちょちょっ…;Stop messing around!-Wow, wait, wait!-;test-144-DevilManJapEpisode1-0to20mins-00_10_26.mp3
+145;（ワム）こいつ…;Why, you...-;test-145-DevilManJapEpisode1-0to20mins-00_10_29.mp3
+146;明 すぐ一緒に来てくれ;Akira, come with me right away.-;test-146-DevilManJapEpisode1-0to20mins-00_10_31.mp3
+147;（美樹）明くん 誰 その人？;Akira, who is that guy?-;test-147-DevilManJapEpisode1-0to20mins-00_10_33.mp3
+149;僕と同い年なのに アメリカの大学で教授やってるんだ;Ryo Asuka. We're the same age, but he's a professor in the States.-Let's go.-;test-149-DevilManJapEpisode1-0to20mins-00_10_36.mp3
+150;（了）行くぞ！;Let's go.-No, don't go, Akira!-;test-150-DevilManJapEpisode1-0to20mins-00_10_39.mp3
+151;ダメ 明くん！ そんな人についていっちゃ;Let's go.-No, don't go, Akira!-Don't follow a guy like that!-;test-151-DevilManJapEpisode1-0to20mins-00_10_40.mp3
+152;もう！ 行っちゃったじゃない 何やってんのよ;They're gone! Look at what you've done!-;test-152-DevilManJapEpisode1-0to20mins-00_10_48.mp3
+153;（ククン）速…;She's so fast.-;test-153-DevilManJapEpisode1-0to20mins-00_10_54.mp3
+154;了ちゃん それ…;Ryo, is that...?-A machine gun.-;test-154-DevilManJapEpisode1-0to20mins-00_11_00.mp3
+155;マシンガンだ;A machine gun.-Not that.-;test-155-DevilManJapEpisode1-0to20mins-00_11_02.mp3
+156;そうじゃなくて;A machine gun.-Not that.-;test-156-DevilManJapEpisode1-0to20mins-00_11_03.mp3
+157;法律を守っていては生きていけない;You can't survive by obeying laws.-;test-157-DevilManJapEpisode1-0to20mins-00_11_05.mp3
+158;アメリカの免許では 日本で車の運転もできない;You can't drive in Japan with an American license.-;test-158-DevilManJapEpisode1-0to20mins-00_11_07.mp3
+160;（了）携帯を持て;-You're driving without a license? -Get a phone.-;test-160-DevilManJapEpisode1-0to20mins-00_11_12.mp3
+161;分からないから 女のＧＰＳをたどった;I couldn't track your GPS, so I tracked the girl's.-;test-161-DevilManJapEpisode1-0to20mins-00_11_13.mp3
+163;どうやって美樹ちゃんの… （了）なぜ走る？;-You know Miki? How'd you find--? -Why do you run?-;test-163-DevilManJapEpisode1-0to20mins-00_11_18.mp3
+164;（明）陸上あるあるだよね よく聞かれるけど;It's common in track. People ask a lot.-;test-164-DevilManJapEpisode1-0to20mins-00_11_20.mp3
+165;（了） 人間が移動しようとしても―;The human ability of movement-;test-165-DevilManJapEpisode1-0to20mins-00_11_23.mp3
+166;犬 猫 小鳥にさえ 身体能力は及ばない;can never reach those of dogs, cats, or birds.-;test-166-DevilManJapEpisode1-0to20mins-00_11_25.mp3
+167;（了）人間の能力は 武器や乗り物を使えてこそだ;Weapons and vehicles are what bring out the abilities of humans.-;test-167-DevilManJapEpisode1-0to20mins-00_11_29.mp3
+169;先月 フィキラが死んだ ロシアの学者だ;Fikira died last month. He was a Russian scholar.-;test-169-DevilManJapEpisode1-0to20mins-00_11_38.mp3
+170;（了）俺は古代先住民を 研究しているという彼に頼まれて―;<i>I was asked</i> <i>to research the ancient people,</i>-;test-170-DevilManJapEpisode1-0to20mins-00_11_42.mp3
+171;現地アマゾンに古く伝わる 言語の通訳をするため―;<i>and in order to learn an old language</i>-<i>of the Amazon,</i> <i>I went deep into the jungle.</i>-;test-171-DevilManJapEpisode1-0to20mins-00_11_46.mp3
+173;（ノック）;Professor Fikira?-;test-173-DevilManJapEpisode1-0to20mins-00_11_52.mp3
+174;（英語：了）フィキラ教授？;Professor Fikira?-;test-174-DevilManJapEpisode1-0to20mins-00_11_53.mp3
+176;（机にたたきつける音）;Professor.-;test-176-DevilManJapEpisode1-0to20mins-00_12_03.mp3
+177;（英語：フィキラ） 鳥がうるさくてねえ;The chirping birds were getting on my nerves.-;test-177-DevilManJapEpisode1-0to20mins-00_12_07.mp3
+178;だけど ようやく静かになった;But they're caught now, finally.-They're quiet now.-;test-178-DevilManJapEpisode1-0to20mins-00_12_11.mp3
+179;静かになった…;They're quiet now.-;test-179-DevilManJapEpisode1-0to20mins-00_12_13.mp3
+181;まさか…;That can't be.-;test-181-DevilManJapEpisode1-0to20mins-00_12_32.mp3
+188;（英語）ああ これは…;This is...-;test-188-DevilManJapEpisode1-0to20mins-00_12_47.mp3
+191;（英語：了）おい 何を！;Hey, what are you doing?-;test-191-DevilManJapEpisode1-0to20mins-00_12_56.mp3
+192;（英語）無理だ 抑えきれない;I can't keep it down.-;test-192-DevilManJapEpisode1-0to20mins-00_12_59.mp3
+193;人間のうちに死ぬしかない;I must die while I'm still human.-;test-193-DevilManJapEpisode1-0to20mins-00_13_01.mp3
+194;（ロシア語）クソッ;Damn it.-;test-194-DevilManJapEpisode1-0to20mins-00_13_05.mp3
+195;（英語：了）よせ！ 爆発するぞ！;No, you'll explode.-;test-195-DevilManJapEpisode1-0to20mins-00_13_08.mp3
+196;（ロシア語）俺は お前を 調べに来たはずなのに;A shame, since I came to know more about you.-;test-196-DevilManJapEpisode1-0to20mins-00_13_10.mp3
+198;（ロシア語：フィキラ） 悪魔め～ くそお～;You devil. Damn it.-;test-198-DevilManJapEpisode1-0to20mins-00_13_22.mp3
+201;黒コゲになったフィキラの重さは 生きている時の倍あった;Fikira's burnt corpse weighed twice as much as he did when he was alive.-;test-201-DevilManJapEpisode1-0to20mins-00_13_37.mp3
+203;炭化したのに ２倍の重さがあった…;Twice as heavy, even though he was charred.-;test-203-DevilManJapEpisode1-0to20mins-00_13_42.mp3
+204;何かがフィキラの中にいた;Something was inside him.-;test-204-DevilManJapEpisode1-0to20mins-00_13_45.mp3
+205;ん？ 何かって;Something?-A devil.-;test-205-DevilManJapEpisode1-0to20mins-00_13_47.mp3
+206;悪魔だ （明）ハハッ 悪魔？;Something?-A devil.-A devil?-;test-206-DevilManJapEpisode1-0to20mins-00_13_50.mp3
+207;彼が調べていた先住民とは 悪魔のことだったんだ;A devil?-The natives he was researching were the devils.-;test-207-DevilManJapEpisode1-0to20mins-00_13_52.mp3
+208;悪魔は人間が地球に現れる はるか昔から存在した;Devils have existed on Earth since long before humans.-;test-208-DevilManJapEpisode1-0to20mins-00_13_57.mp3
+209;どう猛で野蛮きわまりなく 感情などない;They are ferocious, extremely savage, and have no emotion.-;test-209-DevilManJapEpisode1-0to20mins-00_14_01.mp3
+210;しかし戦闘能力と 生命力に長(た)けた生物;But they are creatures skilled at fighting and surviving.-;test-210-DevilManJapEpisode1-0to20mins-00_14_05.mp3
+211;単体での目撃例はなく 悪魔は実体を持たず―;No devil has ever been seen in its true form.-;test-211-DevilManJapEpisode1-0to20mins-00_14_10.mp3
+212;何かしら生物と合体しないと 存在できない;They cannot exist unless they merge with some living thing.-;test-212-DevilManJapEpisode1-0to20mins-00_14_14.mp3
+213;ヤツらは生きのびるために より良い生物と合体を繰り返し―;They merged with superior creatures each time-in order to survive,-;test-213-DevilManJapEpisode1-0to20mins-00_14_18.mp3
+214;その能力を蓄え 進化していった;in order to survive,-keeping their abilities and evolving.-;test-214-DevilManJapEpisode1-0to20mins-00_14_22.mp3
+215;（明）増えた体重の分は 悪魔だってこと？;You mean the extra weight was a devil?-;test-215-DevilManJapEpisode1-0to20mins-00_14_26.mp3
+216;（了）そして今 巧妙に―;And now there are devils who have gained the ability-;test-216-DevilManJapEpisode1-0to20mins-00_14_29.mp3
+217;人間の体を保ったまま 生活する術(すべ)を手に入れた悪魔もいる;to live while still keeping a human body.-;test-217-DevilManJapEpisode1-0to20mins-00_14_31.mp3
+218;逆に人間からすれば 悪魔の意思に負けなければ―;On the other hand, if we don't lose to the devil's will,-;test-218-DevilManJapEpisode1-0to20mins-00_14_36.mp3
+219;人間でありながら 悪魔の力を 手に入れることも可能なわけだ;it's possible to gain its power while remaining a human.-;test-219-DevilManJapEpisode1-0to20mins-00_14_40.mp3
+220;多分 フィキラは それを身を持って示そうとし―;Fikira probably tried to prove that with his own body.-;test-220-DevilManJapEpisode1-0to20mins-00_14_44.mp3
+222;近年 世界で頻発している 残忍な謎の未解決事件;of brutal unsolved mysteries.-;test-222-DevilManJapEpisode1-0to20mins-00_14_50.mp3
+223;謎の大量失踪 急に粗暴になった人々の報告;Strange mass disappearances, reports of unprecedented violence,-;test-223-DevilManJapEpisode1-0to20mins-00_14_54.mp3
+224;突然 驚異的な身体能力を発揮した スポーツ選手や―;athletes who suddenly show astounding physical abilities,-;test-224-DevilManJapEpisode1-0to20mins-00_14_59.mp3
+225;一般人の目撃例;and other things seen by people.-;test-225-DevilManJapEpisode1-0to20mins-00_15_02.mp3
+226;それらの現象は ピタリと符合して説明がつく;Those phenomena dovetail perfectly and can be explained easily.-;test-226-DevilManJapEpisode1-0to20mins-00_15_05.mp3
+227;悪魔が広がっているんだ;The devils are spreading.-;test-227-DevilManJapEpisode1-0to20mins-00_15_09.mp3
+228;世界各地の警察上層部や公安は この事実をつかんでいるに違いない;The heads of police and the Public Security Division-around the world must know.-;test-228-DevilManJapEpisode1-0to20mins-00_15_11.mp3
+231;しかし それが真実なら 皆が知るべきだ;But if it's the truth, everyone should know.-;test-231-DevilManJapEpisode1-0to20mins-00_15_21.mp3
+232;知って各自 警戒対策を とらなければ大変なことになる;It'll be a disaster if people don't take precautionary measures on their own.-;test-232-DevilManJapEpisode1-0to20mins-00_15_24.mp3
+233;フィキラの仮説が事実なら 確かめて証拠を集め世界に訴える;If Fikira's hypothesis is true,-;test-233-DevilManJapEpisode1-0to20mins-00_15_28.mp3
+235;ここ？;Is it here?-;test-235-DevilManJapEpisode1-0to20mins-00_15_40.mp3
+236;巻き込んでしまってすまない;Sorry for dragging you into this.-;test-236-DevilManJapEpisode1-0to20mins-00_15_50.mp3
+237;できれば お前と一緒に 真相を突き止めたいと思った;If possible, I wanted to find out the truth with you.-;test-237-DevilManJapEpisode1-0to20mins-00_15_52.mp3
+240;頭からガソリンをかぶるハメになる 可能性もある;or end up pouring gasoline over your head, just like Fikira.-;test-240-DevilManJapEpisode1-0to20mins-00_16_01.mp3
+241;了ちゃん 何で僕を？;Ryo, why me?-;test-241-DevilManJapEpisode1-0to20mins-00_16_05.mp3
+242;俺は怖いんだ 怖くて怖くてたまらない…;I'm scared.-I'm so terrified.-;test-242-DevilManJapEpisode1-0to20mins-00_16_08.mp3
+243;これはフィキラが 俺に残した恐怖の遺産だ;This is a horrific legacy that Fikira left me.-;test-243-DevilManJapEpisode1-0to20mins-00_16_12.mp3
+244;真実を突き止めなければならない;I must find out the truth.-;test-244-DevilManJapEpisode1-0to20mins-00_16_15.mp3
+246;俺は誰よりも まず お前に知らせたかった;as soon as I could.-;test-246-DevilManJapEpisode1-0to20mins-00_16_20.mp3
+247;俺が信用できるのは お前しかいないんだ;You're the only one I can trust.-;test-247-DevilManJapEpisode1-0to20mins-00_16_24.mp3
+248;手伝ってほしい！ 皆に事実を知らせる;I need your help. We're gonna tell everyone the truth.-;test-248-DevilManJapEpisode1-0to20mins-00_16_27.mp3
+249;生きて帰ったら 皆は俺たちに 感謝することになる！;When we go back alive, everyone will thank us.-;test-249-DevilManJapEpisode1-0to20mins-00_16_31.mp3
+250;ありがとう 分かったよ 了ちゃん;Thanks.-Okay, Ryo.-;test-250-DevilManJapEpisode1-0to20mins-00_16_36.mp3
+251;僕は了ちゃんを信じるよ！;Okay, Ryo.-I trust you, Ryo.-Thanks, Akira.-;test-251-DevilManJapEpisode1-0to20mins-00_16_39.mp3
+252;ありがとう明 行くぞ！ （明）うん;Thanks, Akira.-Let's go.-;test-252-DevilManJapEpisode1-0to20mins-00_16_42.mp3
+253;（了）もう後戻りはできない 悪魔の証拠をつかむんだ;Let's go.-There's no going back.-;test-253-DevilManJapEpisode1-0to20mins-00_16_45.mp3
+254;（了）もう後戻りはできない 悪魔の証拠をつかむんだ;We're going to prove devils exist!-;test-254-DevilManJapEpisode1-0to20mins-00_16_48.mp3
+255;（電子音）;We're going to prove devils exist!-;test-255-DevilManJapEpisode1-0to20mins-00_16_48.mp3
+258;（受美(すみ)）はい どーぞ;Here you go.-;test-258-DevilManJapEpisode1-0to20mins-00_17_11.mp3
+259;（受美） デビデビのほうがよかった？;Do you prefer Devidevi?-;test-259-DevilManJapEpisode1-0to20mins-00_17_16.mp3
+263;アッハハ！ 彼 初めて？;Is he a first-timer?-;test-263-DevilManJapEpisode1-0to20mins-00_17_26.mp3
+264;（了） ああ 彼女にフラれたばかりで;Yeah, he just got dumped by his girl.-He's cute.-;test-264-DevilManJapEpisode1-0to20mins-00_17_29.mp3
+265;かわいい！ （明）あっ！;He's cute.-;test-265-DevilManJapEpisode1-0to20mins-00_17_31.mp3
+266;会えたら あとでね！;Hope to bump into you later.-;test-266-DevilManJapEpisode1-0to20mins-00_17_33.mp3
+269;（了）最近 流行のパーティー “サバト”だ;It's Sabbath, the latest popular party.-;test-269-DevilManJapEpisode1-0to20mins-00_17_52.mp3
+270;（明）え？ 悪魔を呼び出すの？;What? Are we going to summon the devil?-;test-270-DevilManJapEpisode1-0to20mins-00_17_55.mp3
+273;だが こんなフェイクじゃ 悪魔は来ない;But the devil won't come to a fake scene like this.-;test-273-DevilManJapEpisode1-0to20mins-00_18_03.mp3
+274;了ちゃん… ん？;Ryo.-;test-274-DevilManJapEpisode1-0to20mins-00_18_12.mp3
+277;デーモンは血を好む！;Demons love blood.-;test-277-DevilManJapEpisode1-0to20mins-00_18_26.mp3
+278;りょっ…;Ryo.-;test-278-DevilManJapEpisode1-0to20mins-00_18_29.mp3
+279;（男１）おい どうした （男２）何だ？;What's wrong?-What is it?-;test-279-DevilManJapEpisode1-0to20mins-00_18_31.mp3
+280;（男１）血だぞ （男２）おい！;There's blood!--Hey! -That guy!-;test-280-DevilManJapEpisode1-0to20mins-00_18_34.mp3
+281;（男１）あいつ！;There's blood!--Hey! -That guy!-Ryo.-;test-281-DevilManJapEpisode1-0to20mins-00_18_35.mp3
+282;了ちゃん… あっ;-Hey! -That guy!-Ryo.-;test-282-DevilManJapEpisode1-0to20mins-00_18_36.mp3
+283;黒ミサもサバトも 血とともにある！;Both Black Mass and Sabbath come with blood.-;test-283-DevilManJapEpisode1-0to20mins-00_18_38.mp3
+284;血だ 血だ 血だ;Blood.-Blood! Blood!-;test-284-DevilManJapEpisode1-0to20mins-00_18_43.mp3
+286;やめて！ 了ちゃん やめてよ;Stop! Ryo, stop it!-;test-286-DevilManJapEpisode1-0to20mins-00_18_52.mp3
+287;どうせクズばかりだ 悲しむことはない;They're all scum anyway. There's no need to be sad.-;test-287-DevilManJapEpisode1-0to20mins-00_18_54.mp3
+288;（男３）てめえもクズだろ;You're scum, too!-;test-288-DevilManJapEpisode1-0to20mins-00_18_57.mp3
+289;あっ 了ちゃん！;-Ryo! -You, too!-;test-289-DevilManJapEpisode1-0to20mins-00_19_00.mp3
+290;（男４）お前もだ！ （明）あああっ;-Ryo! -You, too!-;test-290-DevilManJapEpisode1-0to20mins-00_19_02.mp3
+295;あら オッパイ欲ちいの～？ 後ろ見て！;You want to touch my boobs? Look behind you.-;test-295-DevilManJapEpisode1-0to20mins-00_19_12.mp3
+296;おら～！;Take that!-;test-296-DevilManJapEpisode1-0to20mins-00_19_16.mp3
+297;（明）ぐああ… （受美）アハハ;Take that!-;test-297-DevilManJapEpisode1-0to20mins-00_19_17.mp3
+306;（男９）ぐぅ！ （男10）んっ！;It started.-;test-306-DevilManJapEpisode1-0to20mins-00_19_59.mp3
+307;始まった！;It started.-;test-307-DevilManJapEpisode1-0to20mins-00_20_00.mp3
+309;（女２）あああ！;No.-;test-309-DevilManJapEpisode1-0to20mins-00_20_10.mp3
+310;助けてええええ！;No.-Help me!-But...-;test-310-DevilManJapEpisode1-0to20mins-00_20_11.mp3
+311;（男11）だって… ああっ！;Help me!-But...-;test-311-DevilManJapEpisode1-0to20mins-00_20_13.mp3
+315;（了） アモン！ ペンガーロ！;Amon. Now's your chance.-;test-315-DevilManJapEpisode1-0to20mins-00_20_41.mp3
+316;アキラ ヨンガペモ、アモン！;Possess Akira. Amon.-;test-316-DevilManJapEpisode1-0to20mins-00_20_43.mp3
+323;了ちゃん！;Ryo!-;test-323-DevilManJapEpisode1-0to20mins-00_21_20.mp3
+324;（明の荒い息）;Ryo!-<i>Why do you run?</i>-;test-324-DevilManJapEpisode1-0to20mins-00_21_21.mp3
+325;（了）なぜ走る？;<i>Why do you run?</i>-;test-325-DevilManJapEpisode1-0to20mins-00_21_25.mp3
+326;犬猫にさえ 身体能力はかなわないのに;<i>Your physical ability is nothing,</i> <i>compared to even cats and dogs.</i>-;test-326-DevilManJapEpisode1-0to20mins-00_21_27.mp3
+327;悪魔に食われる 食われる… 食われる… 食われる…;<i>You would get eaten by a devil.</i>-<i>Eaten... Eaten...</i>-<i>Eaten... Eaten...</i>-;test-327-DevilManJapEpisode1-0to20mins-00_21_31.mp3
+334;（デーモンたち）アモンガアモン？;Amon?-Amon?-;test-334-DevilManJapEpisode1-0to20mins-00_22_23.mp3
+338;（了）俺は明をも 悪魔にしてしまった;<i>I've made Akira into a devil.</i>-;test-338-DevilManJapEpisode1-0to20mins-00_22_50.mp3
+339;（了）しかも無慈悲で残忍な 最強の悪魔を―;<i>And...</i>-;test-339-DevilManJapEpisode1-0to20mins-00_22_56.mp3
