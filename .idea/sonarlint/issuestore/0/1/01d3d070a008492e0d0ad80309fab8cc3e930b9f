@@ -1,12 +1,0 @@
-
-R
-java:S1481"5Remove this unused "englishSubtitles" local variable.(¥¹éä8¡ê×.
-E
-java:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œÎÖÕ.
-a
-java:S1854"DRemove this useless assignment to local variable "englishSubtitles".(¥¹éä8¡ê×.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(£à–€ÿÿÿÿÿ8¡ÌÆª.
-Z
-java:S1854"8Remove this useless assignment to local variable "name".(‡úÚıÿÿÿÿ8¿Í.
-K
-java:S1481")Remove this unused "name" local variable.(‡úÚıÿÿÿÿ8¿Í.
